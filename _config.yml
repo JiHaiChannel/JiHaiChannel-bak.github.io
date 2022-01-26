@@ -1,14 +1,3 @@
 theme: jekyll-theme-slate
 title: 极海Channel
-description: Bookmark this to keep an eye on my project updates!
-
-
-navigation:
-  - name: 首页
-    url: /
-  - name: 关于
-    url: /about
-  - name: 归档
-    url: /archive
-  - name: 标签
-    url: /tags
+description: 互联网从业者，前阿里巴巴工程师，主要分享技术经验与学习资料
