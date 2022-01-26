@@ -36,3 +36,4 @@ div.highlight pre {
 .social a[href*='careers.stackoverflow.com']:before {content: url('./images/icons/careers.stackoverflow.png'); margin-right: 2px; vertical-align: -3px;}
 .social a[href*='twitter.com']:before {content: url('./images/icons/twitter.png'); margin-right: 2px; vertical-align: -3px;}
 .social a[href*='weibo.com']:before {content: url('./images/icons/weibo.png'); margin-right: 2px; vertical-align: -3px;}
+.social a[href*='scopus.com']:before {content: url('./images/icons/weibo.png'); margin-right: 2px; vertical-align: -3px;}
